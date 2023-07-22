@@ -95,7 +95,7 @@ The customer with the highest amount in revenue was **Customer 14646** with a to
 
 ## Quantity Demanded Over Regions
 
-![](Quantities.PNG) 
+
 
 The European region has a greater demand for TATA’s products. The Netherlands amassed 200,361 units, EIRE, 140,133 units, Germany 119,154 units and France 111,428 units. It should also be noted that Australia demanded a total of 83,891 units with Japan representing the Asian region with 26,016 units.
 

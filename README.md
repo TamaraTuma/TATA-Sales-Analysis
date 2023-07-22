@@ -69,7 +69,7 @@ To view the data cleaning process and the codes that were used, [Click HERE]( ht
 
  Original Dataset                                 |                     Cleaned Dataset
 :---------------------------------------------:   | :------------------------------------------------:
-![](Original_Dataset.png)                         | ![](Cleaned_Dataset.png)
+![](Original_Dataset.PNG)                         | ![](Cleaned_Dataset.PNG)
 
 
 # Data Analysis and Visualization
@@ -101,9 +101,8 @@ The European region has a greater demand for TATA’s products. The Netherlands 
 
 ## Dashboard
 
-![](TATAdashboard.PNG)
-
-![TATA Sales Dashboard](TATAdashboard.PNG)
+ ![](TATADashboard.PNG)
+ 
 
 You can interact with the dashboard [HERE]( https://www.novypro.com/project/tata-virtual-internship---sales-dashboard)
 

@@ -64,7 +64,7 @@ Data cleaning is a critical step in the analysis process to ensure the quality, 
 
 -	**Creating a revenue and profit column**: In order to effectively answer the questions above, I  calculated the revenue and profit. 
 
-To view the data cleaning process and the codes that were used, [Click HERE]( http://localhost:8888/notebooks/TATA%20Data%20Cleaning.ipynb).
+To view the data cleaning process and the codes that were used, [Click HERE](https://github.com/TamaraTuma/TATA-Sales-Analysis/blob/main/TATA%20Data%20Cleaning.ipynb).
 
 
  Original Dataset                                 |                     Cleaned Dataset
